@@ -4,7 +4,7 @@
 
 ![logo](https://github.com/rsdmu/rsdmu/blob/main/herat-malan_bridge_2016.jpeg)
 
-- 🌱 I’m currently doing **a thesis on public spaces and AI**
+- 🌱 I’m currently doing **a thesis on public space & AI**
 
 - 💬 Ask me about **public space and public life**
 
