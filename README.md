@@ -1,9 +1,8 @@
-![logo](https://github.com/rsdmu/rsdmu/blob/main/herat-malan_bridge_2016.jpeg)
+
 
 ### Rashid Mushkani 
 
-<img align="center" alt="neuron" width="1200" src="https://github.com/rsdmu/rsdmu/assets/113534995/29c59bf0-1fcf-428c-8866-62eb1cff7e07">
-
+![logo](https://github.com/rsdmu/rsdmu/blob/main/herat-malan_bridge_2016.jpeg)
 
 - 🌱 I’m currently doing **a thesis on public spaces and AI**
 
