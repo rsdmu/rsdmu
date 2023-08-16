@@ -1,16 +1,24 @@
-### Hi there 👋
+![logo](https://github.com/rsdmu/rsdmu/blob/main/herat-malan_bridge_2016.jpeg)
 
-<!--
-**rsdmu/rsdmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Rashid Mushkani 
 
-Here are some ideas to get you started:
+<img align="center" alt="neuron" width="1200" src="https://github.com/rsdmu/rsdmu/assets/113534995/29c59bf0-1fcf-428c-8866-62eb1cff7e07">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently doing **a thesis on public spaces and AI**
+
+- 💬 Ask me about **public space and public life**
+
+- 📫 My window: **rashed.mushkan@gmail.com**
+
+- ⚡ Fun fact: **"on lâche rien"**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rashid_mushkani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashid_mushkani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rashid-mushkani-933816a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rashid-mushkani-933816a2/" height="30" width="40" /></a>
+<a href="https://instagram.com/rashid_mushkani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashid_mushkani" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> </p>
