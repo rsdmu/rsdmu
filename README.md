@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently doing **a thesis on public space & AI**
 
-- 💬 Ask me about **public space and public life**
+- 💬 Ask me about **public space & public life**
 
 - 📫 My window: **rashed.mushkan@gmail.com**
 
