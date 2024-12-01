@@ -4,13 +4,12 @@
 
 ![logo](https://github.com/rsdmu/rsdmu/blob/main/herat-malan_bridge_2016.jpeg)
 
-- 🌱 I’m currently doing **a thesis on public space & AI**
+- 🌱 I’m currently doing **a thesis on public space & Responsible AI**
 
 - 💬 Ask me about **public space & public life**
 
-- 📫 My window: **rashed.mushkan@gmail.com**
+- 📫 My window: **rashidmushkani@gmail.com**
 
-- ⚡ Fun fact: **"on lâche rien"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
